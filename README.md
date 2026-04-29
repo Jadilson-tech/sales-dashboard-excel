@@ -97,4 +97,4 @@ Este projeto simula um cenário real de análise de vendas, com foco em organiza
 
 **Jadilson José Tavares**
 
-![Dashboard de Vendas](dashboard.png)
+[Dashboard de Vendas](dashboard.png)
